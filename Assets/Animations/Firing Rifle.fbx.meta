@@ -1,34 +1,9 @@
 fileFormatVersion: 2
-guid: 1b1195204daee57449cb1a64f2174adf
+guid: 9a733af044cd6cf4a9013656549116bb
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ctm_fbi_v2_body_variantB
-    second: {fileID: 2100000, guid: 50127a0835b15da44ae2f0b883a3391d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ctm_fbi_v2_hat_glasses_radio_variantD
-    second: {fileID: 2100000, guid: 90420f28311f6c745b5a74a935fbb1b9, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ctm_fbi_v2_head_variantB
-    second: {fileID: 2100000, guid: 213154da5fa1899419b463a0e818e9e7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ctm_fbi_v2_lower_body_variantC
-    second: {fileID: 2100000, guid: 3e50347cc687af04ab251ca09a8cf114, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: w_ct_fbi_glove
-    second: {fileID: 2100000, guid: 4a6257a7946223047a8bafd4e673afae, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -47,7 +22,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 3
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -123,9 +98,9 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 3
+  animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
+  avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
